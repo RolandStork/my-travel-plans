@@ -6,3 +6,4 @@ A simple app to keep track of destinations I'd like to visit.
 # und noch einer
 letzte Änderung zum Fetchen
 Änderung in neuem zweig
+2te Änderung in zweig
